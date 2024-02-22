@@ -1,4 +1,4 @@
-package com.example.superheroes.advice;
+package com.example.superheroes.config;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
